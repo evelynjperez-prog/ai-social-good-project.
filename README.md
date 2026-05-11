@@ -13,4 +13,30 @@ First, Lab 2 uses AI to read written messages about environmental hazards like w
 Second, Lab 3 uses AI to understand visual images related to wildfire smoke and air pollution. A resident can upload a photo showing smoky skies or visible air pollution. The AI analyzes the image to recognize signs of wildfire smoke and identifies how severe the air quality issue may be. It can also help communicate the seriousness of the situation in a clear way.
 
 These AI tools fit the problem because many people may not fully understand the risks of wildfire smoke or may not be able to clearly explain what they are experiencing. Instead of long explanations, they can send a short message or an image. The AI then organizes this information so it can better support awareness of air quality issues and help communicate the severity of the situation.
-###3. The Workflow
+### 3. The Workflow
+Step 1: Input
+
+The input for this project can come from residents in two main ways:
+
+A short written message describing what they are experiencing with wildfire smoke or poor air quality or
+A photo showing visible signs of smoke, haze, or other environmental issues
+
+For example, a resident may write that there is heavy wildfire smoke in the area, the air quality is bad, and people are having difficulty breathing or coughing. Another resident may upload a photo showing thick smoke in the air or reduced visibility caused by wildfire smoke.
+### Step 2: What the AI Does
+The AI reads the written message or analyzes the image to understand the main problem related to wildfire smoke and poor air quality.
+For written reports, the AI identifies key details such as:
+
+- Location of the wildfire smoke or poor air quality 
+- Type of issue, such as smoke exposure or breathing difficulties caused by air pollution
+- Urgency level based on how serious the health risk appears
+- Possible health impacts, such as coughing or respiratory issues
+- Relevant environmental concern connected to wildfire smoke and toxins in the air
+
+For image reports the AI will identify details such as:
+- What is shown, like wildfire smoke or poor air quality
+- Whether the situation looks dangerous
+- Who may be affected by the smoke
+- What action may be needed to respond to the issue
+
+
+
