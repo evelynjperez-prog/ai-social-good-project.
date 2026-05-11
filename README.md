@@ -13,3 +13,4 @@ First, Lab 2 uses AI to read written messages about environmental hazards like w
 Second, Lab 3 uses AI to understand visual images related to wildfire smoke and air pollution. A resident can upload a photo showing smoky skies or visible air pollution. The AI analyzes the image to recognize signs of wildfire smoke and identifies how severe the air quality issue may be. It can also help communicate the seriousness of the situation in a clear way.
 
 These AI tools fit the problem because many people may not fully understand the risks of wildfire smoke or may not be able to clearly explain what they are experiencing. Instead of long explanations, they can send a short message or an image. The AI then organizes this information so it can better support awareness of air quality issues and help communicate the severity of the situation.
+###3. The Workflow
