@@ -14,7 +14,7 @@ Second, Lab 3 uses AI to understand visual images related to wildfire smoke and 
 
 These AI tools fit the problem because many people may not fully understand the risks of wildfire smoke or may not be able to clearly explain what they are experiencing. Instead of long explanations, they can send a short message or an image. The AI then organizes this information so it can better support awareness of air quality issues and help communicate the severity of the situation.
 ### 3. The Workflow
-Step 1: Input
+### Step 1: Input
 
 The input for this project can come from residents in two main ways:
 
